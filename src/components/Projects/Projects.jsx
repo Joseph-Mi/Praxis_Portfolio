@@ -17,3 +17,21 @@ export const Projects = () => {
     </section>
   );
 };
+
+// {
+//   "title": "Ghera Waste Management for Chennai, India",
+//   "imageSrc": "projects/project.png",
+//   "description": "This is a project made to learn the latest languages by building an app.",
+//   "skills": ["MongoDB", "Figma", "JavaScript"],
+//   "demo": "https://www.example.com",
+//   "source": "https://www.github.com"
+// },
+
+// {
+//   "title": "UTFR Unity Simulation Engine",
+//   "imageSrc": "projects/project.png",
+//   "description": "This is a project made to learn the latest languages by building an app.",
+//   "skills": ["Unity", "C#", "ROS2", "C++"],
+//   "demo": "https://www.example.com",
+//   "source": "https://www.github.com"
+// },

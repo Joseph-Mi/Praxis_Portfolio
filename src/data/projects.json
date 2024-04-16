@@ -1,26 +1,35 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "CIV102 Matboard Bridge",
+    "imageSrc": "projects/bridge.png",
+    "description": "This is the final project made for the CIV102 course. Utlizing  matboard and concrete glue, we were challenged to create a bridge to support 100 Newtons.",
+    "skills": ["Matlab", "Python", "Numpy", "Civil Engineering Stress Analysis"],
+    "details": "https://www.example.com",
+    "source": "https://github.com/allanlzee/civ102-bridge"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Chestnut Cutlery Dispenser",
+    "imageSrc": "projects/claw_machine1.png",
+    "description": "This project attempts to increase the cleanliness and sanitation of the cutlery dispensary system at Chestnut Residence.",
+    "skills": ["Fusion360", "Engineering Design"],
+    "details": "https://www.example.com",
+    "source": "https://docs.google.com/presentation/d/1wNwT5dhFsSOpxVnWNfQIF5bA7O7LZ9WvEmMRv66P59g/edit?usp=sharing"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
+    "title": "LockedIn",
+    "imageSrc": "projects/lockedin.jpg",
+    "description": "This project was made for the MakeUofT 2024 event. It is a product for resident students to remotely lock and unlock their dorm rooms. ",
+    "skills": ["PlatformIO", "C++", "JavaScript"],
+    "details": "https://www.example.com",
+    "source": "https://devpost.com/software/locked-in-zncrag?ref_content=my-projects-tab&ref_feature=my_projects"
+  },
+  {
+    "title": "Gearhub Cordage Compiler",
+    "imageSrc": "projects/GCC.png",
     "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "skills": ["Fusion360", "C++", "Python Machine Learning", "Multivariable Calculus"],
+    "details": "https://www.example.com",
+    "source": "https://www.canva.com/design/DAGCjEsw_Y8/XZj7OIMZDMDO529yl73fRw/edit?utm_content=DAGCjEsw_Y8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
   }
+  
 ]
