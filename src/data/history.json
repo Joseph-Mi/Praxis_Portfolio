@@ -4,7 +4,11 @@
     "organisation": "Active Green + Ross Automotive Centre",
     "startDate": "June, 2022",
     "endDate": "September 2023",
-    "experiences": [""],
+    "experiences": [
+      "Familiarized with the braking mechanisms, transmission systems, engines, and air conditioning systems in a range of automotive vehicles, understanding the basic process of industrialized automotive services.",
+      "Operated industry-standard machinery and hoists to assist in adjustment services.",
+      "Utilized alignment lasers, air guns, hydraulic tools, and other hardware tools for more problem-specific procedures, such as post-accident repairs."
+      ],
     "imageSrc": "history/active_g+r.jpg"
   },
   {
@@ -12,7 +16,12 @@
     "organisation": "University of Toronto Formula Racing",
     "startDate": "October 2023",
     "endDate": "Present",
-    "experiences": [""],
+    "experiences": [
+      "Utilzed C++ and Platformio to test sensory system on corner modules",
+      "Employing Unity to create a simulation engine for the driverless vehicle",
+      "Read and Processed messages to be sent over GPS",
+      "Wrote programs to interpret and send messages over the CAN network"
+    ],
     "imageSrc": "history/UTFR.png"
   },
   {
@@ -21,7 +30,7 @@
     "startDate": "May 2024",
     "endDate": "September 2024",
     "experiences": [
-      ""
+      "TBD"
     ],
     "imageSrc": "history/rawaxiom_logo.jpg"
   }

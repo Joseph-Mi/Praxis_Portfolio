@@ -38,6 +38,13 @@
   font-family: var(--font-roboto);
   margin-bottom: 52px;
 }
+.portfolio {
+  font-size: 15px;
+  font-family: var(--font-roboto);
+  margin-bottom: 52px;
+  margin-right: 50px;
+
+}
 
 .contactBtn {
   text-decoration: none;

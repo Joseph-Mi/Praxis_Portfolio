@@ -1,4 +1,9 @@
 import React from "react";
+// import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
+// import { Bridge } from "portfolio-proj/src/Bridge.jsx";
+// import { Praxis1 } from "portfolio-proj/src/Praxis1.jsx";
+// import { Makeuoft } from "portfolio-proj/src\Makeuoft.jsx";
+// import { Praxis2 } from "portfolio-proj/src/Praxis2.jsx";
 
 import styles from "./ProjectCard.module.css";
 import { getImageUrl } from "../../utils";
@@ -35,3 +40,16 @@ export const ProjectCard = ({
     </div>
   );
 };
+
+function App() {
+  return (
+    <Router>
+      <Switch>
+        <Route path="/bridge-project" component={Bridge} />
+        <Route path="/cutlery-dispenser" component={Praxis1} />
+        <Route path="/lockedin-project" component={Makeuoft} />
+        <Route path="/cordage-compiler" component={Praxis2} />
+      </Switch>
+    </Router>
+  );
+}

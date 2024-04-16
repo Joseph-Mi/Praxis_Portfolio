@@ -63,8 +63,15 @@
   font-weight: 600;
 }
 
+.small {
+  color: antiquewhite;
+  margin-top: 8px;
+}
+
+
+
 .aboutItem p {
-  font-size: 25px;
+  font-size: 14px;
 }
 
 @media screen and (max-width: 830px) {
