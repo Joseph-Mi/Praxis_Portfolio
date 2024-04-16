@@ -17,10 +17,10 @@
     "startDate": "October 2023",
     "endDate": "Present",
     "experiences": [
-      "Utilzed C++ and Platformio to test sensory system on corner modules",
+      "Utilzed C++ and PlatformIO to test sensory system on corner modules",
       "Employing Unity to create a simulation engine for the driverless vehicle",
-      "Read and Processed messages to be sent over GPS",
-      "Wrote programs to interpret and send messages over the CAN network"
+      "Read and processed messages to be sent over GPS",
+      "Wrote programs to interpret and send messages over the CAN bus"
     ],
     "imageSrc": "history/UTFR.png"
   },

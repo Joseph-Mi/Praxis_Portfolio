@@ -21,7 +21,7 @@ export const About = () => {
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Engineering Student</h3>
-              <p className={styles.small}>
+              <p>
               As an engineering student, I am compelled to learn more about my discipline both inside and outside the classroom. Some recent topics I have encountered are electrical circuits, localization technologies, game development, CAN bus messaging, and GPS utilization.
               </p>
             </div>
@@ -53,7 +53,7 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <div className={styles.aboutItemText}>
               <h3>Growth and Development</h3>
-              <p className={styles.small}>
+              <p>
               I believe one of the most important ideals within engineering design is growth and development. Engineering is defined as the practice of solving technical problems, increasing efficiency, and improving systems—a strive for betterment. Aligning with this pursuit, I aim to create things that drive the world to be better. Day by day, I aim for myself to be better. It is not the creation of something perfect that brings me the feeling of accomplishment, but the creation of something that both improves the current situation and can be improved to accommodate for changing circumstances.
               </p>
             </div>
